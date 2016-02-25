@@ -14,10 +14,7 @@ Get the bounding rect of an element, optionally relative to a particular parent
 
 ## Usage
 
-```js
-var elementRect = require('@f/element-rect')
-
-```
+Use this to get the offset of an element relative to another on the page. This is useful for positioning things like tooltips and other overlays that appear near another element.
 
 ## API
 
